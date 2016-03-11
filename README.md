@@ -1,6 +1,9 @@
 rLab Infrastructure
 ===================
 
+[![Stories in Ready](https://badge.waffle.io/reading-hackspace/Infrastructure.svg?label=Ready&title=Ready)](http://waffle.io/reading-hackspace/Infrastructure)
+[![Stories in In Progress](https://badge.waffle.io/reading-hackspace/Infrastructure.svg?label=In%20Progress&title=In%20Progress)](http://waffle.io/reading-hackspace/Infrastructure)
+
 This repository tracks the work of the rLab Infrastructure Working Group. As such, more interesting things are happening in the issues than the repo itself!
 
 Oh cool, a meeting?
